@@ -1,0 +1,7 @@
+Dork: intitle:"index of" "/logs/httpd/"
+severity: 6
+# Date: 5/5/2020
+
+# Author: Dinesh Saini
+
+Result contains httpd logs, juicy info about error, ssl, info, bakup, etc
